@@ -1,0 +1,52 @@
+* {    
+    box-sizing: border-box;
+}
+
+.box  {
+   width: 75%;  
+   margin: 10px;
+   padding: 20px;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+
+h1 {
+    text-align:center;
+}
+
+.box2  {
+    width: 25;
+    margin: 5px;
+    padding:10px;
+    border: 2px; 
+    border-style: groove;
+    border-radius: 5px;
+}
+
+button
+{
+    border-radius: 20px;
+    background-color: rgb(152, 3, 3);
+    color: white;
+    padding: 10px 5px;
+    width: 175px;
+}
+
+
+ #btn
+ {
+    text-align: center;  
+ }
+ h2
+ {
+     text-align: left;
+ }
+ p
+ {
+     border-style: dashed;     
+     height:150px;
+     border-color:lightgrey;
+ }
+ #d1
+{
+
