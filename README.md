@@ -12,7 +12,7 @@ In this project I created a password generator using HTML, CSS and JavaScript. S
 
 ### Screen shot
 
-![Password-Generator Image](https://courses.bootcampspot.com/courses/990/files/1220308/preview)
+![Password-Generator Image](![image](https://user-images.githubusercontent.com/95147890/149687112-8e073653-7078-4939-806e-41d2ef0e76d7.png)
 
 ## User Story
 
