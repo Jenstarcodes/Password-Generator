@@ -10,7 +10,11 @@ In this project I created a password generator using HTML, CSS and JavaScript. S
 
 ## Technologies
 
-![### Screen Shot](https://user-images.githubusercontent.com/95147890/149687112-8e073653-7078-4939-806e-41d2ef0e76d7.png)
+HTML, CSS, JavaScript
+
+### Screen Shot
+
+(https://user-images.githubusercontent.com/95147890/149687112-8e073653-7078-4939-806e-41d2ef0e76d7.png)
 
 ## User Story
 
