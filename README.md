@@ -2,7 +2,7 @@
 
 ### Deployed Link
 
-[Password-Generator] (https://jenstarcodes.github.io/Password-Generator/)
+[Password-Generator](https://jenstarcodes.github.io/Password-Generator/)
 
 ## Description
 
