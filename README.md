@@ -24,8 +24,8 @@ AS AN employee with access to sensitive data I WANT to randomly generate a passw
 
 - A new, secure password is required.
 - When the button to generate a password is clicked then user is presented with a series of prompts for password criteria. The user then selects which criteria to include in the password for the following:
-  1. Password length of at least 8 characters and no more than 128 characters.
-  2. Confirmation of which character types to include in the password: lowercase, uppercase, numeric and/or special characters.
+ 1. Password length of at least 8 characters and no more than 128 characters.  
+ 2. Confirmation of which character types to include in the password: lowercase, uppercase, numeric and/or special characters.
 
 - User input should be validated and at least one character type should be selected.
 - When all prompts are answered then a password is generated that matches all selected criteria.
