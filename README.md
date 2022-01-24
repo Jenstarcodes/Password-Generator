@@ -6,7 +6,7 @@
 
 ## Description
 
-In this project I created a password generator using HTML, CSS and JavaScript. Starter code was provided with expectation that the code would be modified to meet all outlined Acceptance Criteria. The endpoint is to successfully create a password generator that provides a secure random password based on user input when presented with a series of prompts/conditions for password criteria. Once generated this password should be displayed in an alert or written to the page. 
+For this project I created a password generator using HTML, CSS and JavaScript. Starter code was provided with expectation that the code would be modified to meet all outlined Acceptance Criteria. The endpoint is to successfully create a password generator that provides a secure random password based on user input when presented with a series of prompts/conditions for password criteria. Once generated this password should be displayed in an alert or written to the page. 
 
 ## Technologies
 
